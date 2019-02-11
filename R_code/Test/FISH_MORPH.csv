@@ -1,0 +1,45 @@
+fishID,lakeID,dateSample,species,parameter,paramValue,units,paramReplicate,dateInterp,interpreter,metadataID,flag,comments
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_002,FOL,15-11-03,COAR,upperGillRaker,16,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_002,FOL,15-11-03,COAR,lowerGillRaker,33,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_002,FOL,15-11-03,COAR,upperGillRaker,15,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_002,FOL,15-11-03,COAR,lowerGillRaker,34,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_003,FOL,15-11-03,COAR,upperGillRaker,14,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_003,FOL,15-11-03,COAR,lowerGillRaker,33,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_003,FOL,15-11-03,COAR,upperGillRaker,15,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_003,FOL,15-11-03,COAR,lowerGillRaker,33,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_005,FOL,15-11-03,COAR,upperGillRaker,14,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_005,FOL,15-11-03,COAR,lowerGillRaker,30,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_005,FOL,15-11-03,COAR,upperGillRaker,15,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_005,FOL,15-11-03,COAR,lowerGillRaker,31,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_004,FOL,15-11-03,COAR,upperGillRaker,15,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_004,FOL,15-11-03,COAR,lowerGillRaker,30,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_004,FOL,15-11-03,COAR,upperGillRaker,15,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_004,FOL,15-11-03,COAR,lowerGillRaker,30,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_007,FOL,15-11-03,COAR,upperGillRaker,16,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_007,FOL,15-11-03,COAR,lowerGillRaker,31,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_007,FOL,15-11-03,COAR,upperGillRaker,16,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_007,FOL,15-11-03,COAR,lowerGillRaker,30,count,2,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_008,FOL,15-11-03,COAR,upperGillRaker,15,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_008,FOL,15-11-03,COAR,lowerGillRaker,27,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_006,FOL,15-11-03,COAR,upperGillRaker,14,count,1,15-12-07,AR,,,
+FOL_Narrows_20151103_0030_VGN_FollensbySurvey.20150226_006,FOL,15-11-03,COAR,lowerGillRaker,30,count,1,15-12-07,AR,,,
+FOL_OspreyBay_20151102_1350_GN_FollensbySurvey.20150226_003,FOL,15-11-02,COAR,upperGillRaker,16,count,1,15-12-07,AR,,,
+FOL_OspreyBay_20151102_1350_GN_FollensbySurvey.20150226_003,FOL,15-11-02,COAR,lowerGillRaker,30,count,1,15-12-07,AR,,,
+FOL_OspreyBay_20151102_1350_GN_FollensbySurvey.20150226_003,FOL,15-11-02,COAR,upperGillRaker,17,count,2,15-12-07,AR,,,
+FOL_OspreyBay_20151102_1350_GN_FollensbySurvey.20150226_003,FOL,15-11-02,COAR,lowerGillRaker,23,count,2,15-12-07,AR,,1,Part of LGR missing
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_001,FOL,15-08-18,COAR,upperGillRaker,11,count,1,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_001,FOL,15-08-18,COAR,lowerGillRaker,26,count,1,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_001,FOL,15-08-18,COAR,upperGillRaker,16,count,2,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_001,FOL,15-08-18,COAR,lowerGillRaker,29,count,2,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_002,FOL,15-08-18,COAR,upperGillRaker,15,count,1,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_002,FOL,15-08-18,COAR,lowerGillRaker,26,count,1,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_002,FOL,15-08-18,COAR,upperGillRaker,14,count,2,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_002,FOL,15-08-18,COAR,lowerGillRaker,29,count,2,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_003,FOL,15-08-18,COAR,upperGillRaker,15,count,1,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_003,FOL,15-08-18,COAR,lowerGillRaker,27,count,1,15-12-07,AR,,,"Small gills, tough to interpret"
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_004,FOL,15-08-18,COAR,upperGillRaker,15,count,1,15-12-07,AR,,,
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_004,FOL,15-08-18,COAR,lowerGillRaker,33,count,1,15-12-07,AR,,,
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_004,FOL,15-08-18,COAR,upperGillRaker,15,count,2,15-12-07,AR,,,
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_004,FOL,15-08-18,COAR,lowerGillRaker,18,count,2,15-12-07,AR,,1,Part of LGR missing
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_005,FOL,15-08-18,COAR,upperGillRaker,13,count,1,15-12-07,AR,,,
+FOL_Unidentified_20150818_0130_VGN_FollensbySurvey.20150226_005,FOL,15-08-18,COAR,lowerGillRaker,26,count,1,15-12-07,AR,,,

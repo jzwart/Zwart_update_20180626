@@ -1,0 +1,21 @@
+siteID,lakeID,siteName,lat,long,UTM
+AQ_DeepHole,AQ,DeepHole,46.03,-89.62,16T 296997E 5101818W
+AQ_shoreline,AQ,shoreline,46.03,-89.62,16T 296581E 5101512W
+BA_A,BA,A,0,0,
+BA_B,BA,B,0,0,
+BA_D,BA,D,0,0,
+BA_DeepHole,BA,DeepHole,46.24,-89.49,16T 307371E 5124083W
+BA_E,BA,E,0,0,
+BA_FN1,BA,FN1,46.24,-89.49,16T 307371E 5124083W
+BA_FN2,BA,FN2,46.24,-89.49,16T 307371E 5124083W
+BA_FN3,BA,FN3,46.24,-89.49,16T 307371E 5124083W
+BA_FN4,BA,FN4,46.24,-89.49,16T 307371E 5124083W
+BA_Littoral,BA,Littoral,0,0,
+BA_Littoral.5,BA,Littoral.5,0,0,
+BA_Pelagic,BA,Pelagic,0,0,
+BA_shoreline,BA,shoreline,46.24,-89.49,16T 307371E 5124083W
+BA_WholeLake,BA,WholeLake,0,0,
+BC_DeepHole,BC,DeepHole,42.07,-86.19,16T 566751E 4658874W
+BE _Shoreline,BE ,Shoreline,0,0,
+FL_WholeLake,FL,DeepHole,0,0,
+FL_Osprey,FL,Pelagic,,,

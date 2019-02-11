@@ -1,0 +1,16 @@
+version: 0.3.0
+name: 1_sensor_db/out/HOBO_PRESS_RAW.txt.ind
+type: file
+hash: d2c75b6e56216a1bee6c99e4b2db543c
+time: 2018-06-29 18:59:00 UTC
+depends:
+  1_sensor_db/cfg/val_check.yml: 70ba166dcb6595394b0e4a1a91378ee5
+  1_sensor_db/cfg/site_change.yml: 6720e924d42d01d78e6fd8b89fdd236e
+  lib/cfg/gd_config.yml: 74f934f002d2021c7e3d21f5c5c08145
+fixed: 4d1310163527124f7e202df482ddb3b4
+code:
+  functions:
+    date2doy: 69ce50f177b04d83f1fba16451270f72
+    sensor_db_changes: afc2e01f1b6862cbda32bc9cf7b5d680
+    sensordbTable: 91a0a4043e7c030fe062c01f49bde54e
+

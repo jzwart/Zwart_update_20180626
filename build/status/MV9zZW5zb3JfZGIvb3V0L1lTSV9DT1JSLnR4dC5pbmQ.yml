@@ -1,0 +1,16 @@
+version: 0.3.0
+name: 1_sensor_db/out/YSI_CORR.txt.ind
+type: file
+hash: 76c7f299bac7fdb381978119e591ac36
+time: 2018-06-29 18:57:46 UTC
+depends:
+  1_sensor_db/cfg/val_check.yml: 70ba166dcb6595394b0e4a1a91378ee5
+  1_sensor_db/cfg/site_change.yml: 6720e924d42d01d78e6fd8b89fdd236e
+  lib/cfg/gd_config.yml: 74f934f002d2021c7e3d21f5c5c08145
+fixed: 02cf271239e70bc2dc74562ac0b9882b
+code:
+  functions:
+    date2doy: 69ce50f177b04d83f1fba16451270f72
+    sensor_db_changes: afc2e01f1b6862cbda32bc9cf7b5d680
+    sensordbTable: 91a0a4043e7c030fe062c01f49bde54e
+

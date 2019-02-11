@@ -1,0 +1,162 @@
+siteID,sampleID,dateSample,dateTimeSample,depthClass,depthTop,depthBottom,crew,weather,comments,metadataID
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_5.5_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,5.5,5.5,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_4_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,4,4,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_2.5_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,2.5,2.5,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_3_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,3,3,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_0.25_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,0.25,0.25,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_11_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,11,11,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_10_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,10,10,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_1_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,1,1,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_1.5_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,1.5,1.5,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_0_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,0,0,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_0.75_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,0.75,0.75,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_0.5_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,0.5,0.5,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+DUP_DeepHole,DUP_DeepHole_20130729_0951_point_4.5_FishGrowthQc.20130501,13-07-29,13-07-29 9:51,point,4.5,4.5,"POB, DB","Wind: 2, Sun: 3",,FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_0.5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,0.5,0.5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_0.25_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,0.25,0.25,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_PML_0_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,PML,0,4,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_PML_0_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,PML,0,16,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_16_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,16,16,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_0.5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,0.5,0.5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_6.5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,6.5,6.5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,5,5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_5.5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,5.5,5.5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_4_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,4,4,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_4.5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,4.5,4.5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_3_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,3,3,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_3.5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,3.5,3.5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_20_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,20,20,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_2_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,2,2,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_7.5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,7.5,7.5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_18_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,18,18,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_7_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,7,7,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_14_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,14,14,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_13_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,13,13,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_12_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,12,12,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_11_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,11,11,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_10_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,10,10,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_1_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,1,1,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+WL_WholeLake,WL_WholeLake_20130710_1040_Staff_0_Staff.Gauge.Sample.20140319,13-07-10 0:00,13-07-10 10:40,Staff,0,0,JAZ ,,,Staff.Gauge.Sample.20140319
+WL_WholeLake,WL_WholeLake_20130717_1115_Staff_0_Staff.Gauge.Sample.20140319,13-07-17 0:00,13-07-17 11:15,Staff,0,0,JAZ ,,,Staff.Gauge.Sample.20140319
+WL_WholeLake,WL_WholeLake_20130725_1205_Staff_0_Staff.Gauge.Sample.20140319,13-07-25 0:00,13-07-25 12:05,Staff,0,0,JAZ ,,,Staff.Gauge.Sample.20140319
+WL_WholeLake,WL_WholeLake_20130731_0840_Staff_0_Staff.Gauge.Sample.20140319,13-07-31 0:00,13-07-31 8:40,Staff,0,0,JAZ ,,,Staff.Gauge.Sample.20140319
+WL_WholeLake,WL_WholeLake_20130806_1330_Staff_0_Staff.Gauge.Sample.20140319,13-08-06 0:00,13-08-06 13:30,Staff,0,0,JAZ ,,,Staff.Gauge.Sample.20140319
+WL_WholeLake,WL_WholeLake_20130814_0925_Staff_0_Staff.Gauge.Sample.20140319,13-08-14 0:00,13-08-14 9:25,Staff,0,0,JAZ ,,,Staff.Gauge.Sample.20140319
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_1.5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,1.5,1.5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_0_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,0,0,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_0.75_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,0.75,0.75,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_0.75_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,0.75,0.75,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_0.25_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,0.25,0.25,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_2.5_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,2.5,2.5,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_4.5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,4.5,4.5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_1.5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,1.5,1.5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_1_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,1,1,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_10_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,10,10,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_11_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,11,11,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_12_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,12,12,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_13_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,13,13,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_14_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,14,14,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_15_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,15,15,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_2.5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,2.5,2.5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_2_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,2,2,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_6_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,6,6,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_3_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,3,3,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_0_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,0,0,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_4_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,4,4,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_5.5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,5.5,5.5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,5,5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_6.5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,6.5,6.5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_6_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,6,6,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_7.5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,7.5,7.5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_7_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,7,7,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_8_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,8,8,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_9_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,9,9,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_9_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,9,9,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+MAL_DeepHole,MAL_DeepHole_20130731_1655_point_8_FishGrowthQc.20130501,13-07-31,13-07-31 16:55,point,8,8,"POB, DB","Wind: 4, Sun: 3",,FishGrowthQc.20130501
+PRE_DeepHole,PRE_DeepHole_20130731_1240_point_3.5_FishGrowthQc.20130501,13-07-31,13-07-31 12:40,point,3.5,3.5,"POB, DB","Wind: 3, Sun: 4","Changed D.O. membrane, probe sanded and cleaned",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_12_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,12,12,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_10_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,10,10,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_8_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,8,8,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_PML_0_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,PML,0,6,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_0.25_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,0.25,0.25,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_0.5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,0.5,0.5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_0.75_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,0.75,0.75,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_0_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,0,0,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+WL_U1,WL_U1_20120716_1111_PIEZ_0_Piezometer.Sample.20140319,12-07-16 0:00,12-07-16 11:11,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20120721_1136_PIEZ_0_Piezometer.Sample.20140319,12-07-21 0:00,12-07-21 11:36,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20120725_1740_PIEZ_0_Piezometer.Sample.20140319,12-07-25 0:00,12-07-25 17:40,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20120731_1731_PIEZ_0_Piezometer.Sample.20140319,12-07-31 0:00,12-07-31 17:31,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20120803_1633_PIEZ_0_Piezometer.Sample.20140319,12-08-03 0:00,12-08-03 16:33,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20120807_1620_PIEZ_0_Piezometer.Sample.20140319,12-08-07 0:00,12-08-07 16:20,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20120809_1900_PIEZ_0_Piezometer.Sample.20140319,12-08-09 0:00,12-08-09 19:00,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20120916_1528_PIEZ_0_Piezometer.Sample.20140319,12-09-16 0:00,12-09-16 15:28,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20130510_0906_PIEZ_0_Piezometer.Sample.20140319,13-05-10 0:00,13-05-10 9:06,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+WL_U1,WL_U1_20130531_1122_PIEZ_0_Piezometer.Sample.20140319,13-05-31 0:00,13-05-31 11:22,PIEZ,0,0,JAZ ,NA,,Piezometer.Sample.20140319
+BLA_DeepHole,BLA_DeepHole_20130801_1259_PML_0_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,PML,0,6,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_1_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,1,1,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_6_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,6,6,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_11_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,11,11,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_PML_0_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,PML,0,4,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_13_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,13,13,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_16_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,16,16,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_14_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,14,14,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_2.5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,2.5,2.5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_1.5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,1.5,1.5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_3.5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,3.5,3.5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_0.25_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,0.25,0.25,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_0.5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,0.5,0.5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_0.75_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,0.75,0.75,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_0_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,0,0,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_1.5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,1.5,1.5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_1_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,1,1,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_7_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,7,7,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_2_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,2,2,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_7.5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,7.5,7.5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_3_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,3,3,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_4.5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,4.5,4.5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_4_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,4,4,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_5.5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,5.5,5.5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,5,5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_6.5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,6.5,6.5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_2_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,2,2,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+GUE_DeepHole,GUE_DeepHole_20130801_0954_point_2.5_FishGrowthQc.20130501,13-08-01,13-08-01 9:54,point,2.5,2.5,"POB, DB","Wind: 2, Sun: 5","Really bad map available, could not find the deepest point (splaed at 8,6 meters).",FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_3_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,3,3,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_0.5_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,0.5,0.5,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_18_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,18,18,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_7_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,7,7,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_6_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,6,6,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_6.5_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,6.5,6.5,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_5_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,5,5,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_5.5_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,5.5,5.5,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_0.25_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,0.25,0.25,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_4.5_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,4.5,4.5,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_20_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,20,20,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_3.5_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,3.5,3.5,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_2_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,2,2,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_2.5_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,2.5,2.5,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_1_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,1,1,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_1.5_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,1.5,1.5,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_0_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,0,0,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_0.75_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,0.75,0.75,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+BLA_DeepHole,BLA_DeepHole_20130801_1259_point_4_FishGrowthQc.20130501,13-08-01,13-08-01 12:59,point,4,4,"POB, DB","Wind: 2, Sun: 5",,FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_6.5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,6.5,6.5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_24_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,24,24,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_28_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,28,28,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_3.5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,3.5,3.5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_3_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,3,3,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_30_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,30,30,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_4.5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,4.5,4.5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_4_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,4,4,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,5,5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_6_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,6,6,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_7.5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,7.5,7.5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_7_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,7,7,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_8_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,8,8,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_9_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,9,9,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+MAT_DeepHole,MAT_DeepHole_20130801_1435_point_5.5_FishGrowthQc.20130501,13-08-01,13-08-01 14:35,point,5.5,5.5,"POB, DB","Wind: 3, Sun: 5","Depth finder broken, sampled zone ~ 35 meters.",FishGrowthQc.20130501
+FOL_Unidentified,FOL_Unidentified_20131019_point_11_FollensbyWater.20140602,13-10-19,13-10-19 12:00,point,0,11,"JZ, ML",,,FollensbyWater.20140602
+FOL_Unidentified,FOL_Unidentified_20131020_point_10_FollensbyWater.20140602,13-10-20,13-10-20 12:00,point,0,10,"JZ, ML",,,FollensbyWater.20140602
+FOL_Narrows,FOL_Narrows_20140602_PML_4_FollensbyWater.20140602,14-06-02,14-06-02 12:00,PML,0,4,"JZ, ML","Sunny, no clouds. Wind 10 km/hr",,FollensbyWater.20140602
+FOL_Narrows,FOL_Narrows_20140602_point_19_FollensbyWater.20140602,14-06-02,14-06-02 12:00,point,0,19,"JZ, ML","Sunny, no clouds. Wind 10 km/hr",,FollensbyWater.20140602
+MEM_DeepHole,MEM_DeepHole_20130503_0940_point_0.25_FishGrowthQc.20130501,03-05-03,13-05-03 9:40,point,0.25,0.25,"POB, DB","Wind:3, Sun: 1",,FishGrowthQc.20130501
+MEM_DeepHole,MEM_DeepHole_20130503_0940_point_3.5_FishGrowthQc.20130501,03-05-03,13-05-03 9:40,point,3.5,3.5,"POB, DB","Wind:3, Sun: 1",,FishGrowthQc.20130501
