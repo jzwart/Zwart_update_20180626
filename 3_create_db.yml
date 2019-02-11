@@ -1,0 +1,9 @@
+
+
+
+      - 1_sensor_db/out/new_sensor_db.db.ind
+
+    1_sensor_db/out/new_sensor_db.db.ind:
+     command: create_sensor_db(
+       ind_file = target_name,
+       gd_config = 'lib/cfg/gd_config.yml')
