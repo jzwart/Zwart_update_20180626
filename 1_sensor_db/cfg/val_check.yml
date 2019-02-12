@@ -1,0 +1,9 @@
+bad_vals:
+  cleanedPress_kPa: 0
+  cleanedTemp_C: 0
+  cleanedDO_mg_L: 0
+
+change_to:
+  cleanedPress_kPa: .na
+  cleanedTemp_C: .na
+  cleanedDO_mg_L: .na

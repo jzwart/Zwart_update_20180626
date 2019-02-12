@@ -1,0 +1,12 @@
+wrong_sites:
+  HOBO_PRESS:
+    lakeID:
+      EL: ['P8', 'U2']
+      WL: ['P1']
+
+change_to:
+  HOBO_PRESS:
+    lakeID:
+      EL: ['P2', 'U3']
+      WL: ['P5']
+

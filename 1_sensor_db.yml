@@ -7,6 +7,11 @@ file_extensions:
   - feather
   - ind
 
+packages:
+  - dplyr
+  - tidyr
+  - stringr
+
 sources:
   - 1_sensor_db/src/sensor_db_changes.R
   - R_code/sensordbTable.R
